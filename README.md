@@ -25,5 +25,7 @@ Permite gestionar usuarios y rutinas mediante operaciones **CRUD** con persisten
     spring.datasource.password=tu_password
 
 4. Ejecutar la aplicación desde la clase principal:
-   com.zonafit.ZonaFitAppApplication  // contiene el método main
+   ```bash
+   src/main/java/gm/ZonaFitSpring/ZonaFitSpringApplication.java
+
 
