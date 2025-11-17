@@ -68,11 +68,14 @@ Esto iniciará la interfaz gráfica.
 
 ---
 
-## 🧪 Funcionalidades principales
+## Funcionalidades principales
 
 ✔ Listar clientes en la tabla.
+
 ✔ Agregar nuevos clientes.
+
 ✔ Editar clientes existentes.
+
 ✔ Eliminar clientes.
 
 ---
